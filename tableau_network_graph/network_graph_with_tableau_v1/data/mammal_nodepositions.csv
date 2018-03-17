@@ -1,0 +1,211 @@
+ID,Node,Source,Target,Relationship,X,Y,CycleY,Category,Order,Family,Common Names,Weight
+1,Mammal,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+1,Artiodactyla,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+2,Artiodactyla,Artiodactyla,Antilocapridae,Artiodactyla-->Antilocapridae,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+2,Antilocapridae,Artiodactyla,Antilocapridae,Artiodactyla-->Antilocapridae,0.682770518032,0.753892302268,0.753892302268,0,0,Antilocapridae,0,50
+3,Antilocapridae,Antilocapridae,Pronghorn,Antilocapridae-->Pronghorn,0.682770518032,0.753892302268,0.753892302268,0,0,Antilocapridae,0,50
+3,Pronghorn,Antilocapridae,Pronghorn,Antilocapridae-->Pronghorn,0.754142176419,0.967880605567,0.967880605567,0,0,0,Pronghorn,20
+4,Mammal,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+4,Artiodactyla,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+5,Artiodactyla,Artiodactyla,Bovidae,Artiodactyla-->Bovidae,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+5,Bovidae,Artiodactyla,Bovidae,Artiodactyla-->Bovidae,0.66981812004,0.402194496964,0.402194496964,0,0,Bovidae,0,50
+6,Bovidae,Bovidae,Bighorn Sheep,Bovidae-->Bighorn Sheep,0.66981812004,0.402194496964,0.402194496964,0,0,Bovidae,0,50
+6,Bighorn Sheep,Bovidae,Bighorn Sheep,Bovidae-->Bighorn Sheep,0.740757436778,0.190151028762,0.190151028762,0,0,0,Bighorn Sheep,20
+7,Mammal,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+7,Artiodactyla,Mammal,Artiodactyla,Mammal-->Artiodactyla,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+8,Artiodactyla,Artiodactyla,Cervidae,Artiodactyla-->Cervidae,0.615991511465,0.600115819734,0.600115819734,0,Artiodactyla,0,0,100
+8,Cervidae,Artiodactyla,Cervidae,Artiodactyla-->Cervidae,0.571574123942,0.758596084597,0.758596084597,0,0,Cervidae,0,50
+9,Cervidae,Cervidae,Elk,Cervidae-->Elk,0.571574123942,0.758596084597,0.758596084597,0,0,Cervidae,0,50
+9,Elk,Cervidae,Elk,Cervidae-->Elk,0.478950014795,0.888710267444,0.888710267444,0,0,0,Elk,20
+10,Mammal,Mammal,Carnivora,Mammal-->Carnivora,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+10,Carnivora,Mammal,Carnivora,Mammal-->Carnivora,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+11,Carnivora,Carnivora,Canidae,Carnivora-->Canidae,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+11,Canidae,Carnivora,Canidae,Carnivora-->Canidae,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+12,Canidae,Canidae,Coyote,Canidae-->Coyote,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+12,Coyote,Canidae,Coyote,Canidae-->Coyote,0.740549288379,0.235442911064,0.235442911064,0,0,0,Coyote,20
+13,Mammal,Mammal,Carnivora,Mammal-->Carnivora,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+13,Carnivora,Mammal,Carnivora,Mammal-->Carnivora,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+14,Carnivora,Carnivora,Canidae,Carnivora-->Canidae,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+14,Canidae,Carnivora,Canidae,Carnivora-->Canidae,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+15,Canidae,Canidae,Common Gray Fox,Canidae-->Common Gray Fox,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+15,Common Gray Fox,Canidae,Common Gray Fox,Canidae-->Common Gray Fox,0.603735913784,0.195667937026,0.195667937026,0,0,0,Common Gray Fox,20
+16,Mammal,Mammal,Carnivora,Mammal-->Carnivora,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+16,Carnivora,Mammal,Carnivora,Mammal-->Carnivora,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+17,Carnivora,Carnivora,Canidae,Carnivora-->Canidae,0.59136134181,0.462575910636,0.462575910636,0,Carnivora,0,0,100
+17,Canidae,Carnivora,Canidae,Carnivora-->Canidae,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+18,Canidae,Canidae,Red Fox,Canidae-->Red Fox,0.645615905947,0.305172535864,0.305172535864,0,0,Canidae,0,50
+18,Red Fox,Canidae,Red Fox,Canidae-->Red Fox,0.656269449836,0.143277498581,0.143277498581,0,0,0,Red Fox,20
+19,Mammal,Mammal,Chiroptera,Mammal-->Chiroptera,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+19,Chiroptera,Mammal,Chiroptera,Mammal-->Chiroptera,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+20,Chiroptera,Chiroptera,Molossidae,Chiroptera-->Molossidae,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+20,Molossidae,Chiroptera,Molossidae,Chiroptera-->Molossidae,0.302711558449,0.514943354372,0.514943354372,0,0,Molossidae,0,50
+21,Molossidae,Molossidae,Big Free-tailed Bat,Molossidae-->Big Free-tailed Bat,0.302711558449,0.514943354372,0.514943354372,0,0,Molossidae,0,50
+21,Big Free-tailed Bat,Molossidae,Big Free-tailed Bat,Molossidae-->Big Free-tailed Bat,0.182305105966,0.519173206523,0.519173206523,0,0,0,Big Free-tailed Bat,20
+22,Mammal,Mammal,Chiroptera,Mammal-->Chiroptera,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+22,Chiroptera,Mammal,Chiroptera,Mammal-->Chiroptera,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+23,Chiroptera,Chiroptera,Molossidae,Chiroptera-->Molossidae,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+23,Molossidae,Chiroptera,Molossidae,Chiroptera-->Molossidae,0.302711558449,0.514943354372,0.514943354372,0,0,Molossidae,0,50
+24,Molossidae,Molossidae,Brazilian Free-tailed Bat,Molossidae-->Brazilian Free-tailed Bat,0.302711558449,0.514943354372,0.514943354372,0,0,Molossidae,0,50
+24,Brazilian Free-tailed Bat,Molossidae,Brazilian Free-tailed Bat,Molossidae-->Brazilian Free-tailed Bat,0.373176028022,0.433847977586,0.433847977586,0,0,0,Brazilian Free-tailed Bat,20
+25,Mammal,Mammal,Chiroptera,Mammal-->Chiroptera,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+25,Chiroptera,Mammal,Chiroptera,Mammal-->Chiroptera,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+26,Chiroptera,Chiroptera,Vespertilionidae,Chiroptera-->Vespertilionidae,0.424932522504,0.526843583552,0.526843583552,0,Chiroptera,0,0,100
+26,Vespertilionidae,Chiroptera,Vespertilionidae,Chiroptera-->Vespertilionidae,0.301515945133,0.453841379661,0.453841379661,0,0,Vespertilionidae,0,50
+27,Vespertilionidae,Vespertilionidae,Pallid Bat,Vespertilionidae-->Pallid Bat,0.301515945133,0.453841379661,0.453841379661,0,0,Vespertilionidae,0,50
+27,Pallid Bat,Vespertilionidae,Pallid Bat,Vespertilionidae-->Pallid Bat,0.187660753259,0.418303738801,0.418303738801,0,0,0,Pallid Bat,20
+28,Mammal,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+28,Lagomorpha,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+29,Lagomorpha,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+29,Leporidae,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+30,Leporidae,Leporidae,Snowshoe Hare,Leporidae-->Snowshoe Hare,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+30,Snowshoe Hare,Leporidae,Snowshoe Hare,Leporidae-->Snowshoe Hare,0.949774671368,0.776334273029,0.776334273029,0,0,0,Snowshoe Hare,20
+31,Mammal,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+31,Lagomorpha,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+32,Lagomorpha,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+32,Leporidae,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+33,Leporidae,Leporidae,White-tailed Jackrabbit,Leporidae-->White-tailed Jackrabbit,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+33,White-tailed Jackrabbit,Leporidae,White-tailed Jackrabbit,Leporidae-->White-tailed Jackrabbit,0.933771575384,0.93860510974,0.93860510974,0,0,0,White-tailed Jackrabbit,20
+34,Mammal,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+34,Lagomorpha,Mammal,Lagomorpha,Mammal-->Lagomorpha,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+35,Lagomorpha,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.632333603302,0.677104557666,0.677104557666,0,Lagomorpha,0,0,100
+35,Leporidae,Lagomorpha,Leporidae,Lagomorpha-->Leporidae,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+36,Leporidae,Leporidae,Desert Cottontail,Leporidae-->Desert Cottontail,0.784386646066,0.809797796952,0.809797796952,0,0,Leporidae,0,50
+36,Desert Cottontail,Leporidae,Desert Cottontail,Leporidae-->Desert Cottontail,0.715018899184,0.933027434156,0.933027434156,0,0,0,Desert Cottontail,20
+37,Mammal,Mammal,Rodentia,Mammal-->Rodentia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+37,Rodentia,Mammal,Rodentia,Mammal-->Rodentia,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+38,Rodentia,Rodentia,Castoridae,Rodentia-->Castoridae,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+38,Castoridae,Rodentia,Castoridae,Rodentia-->Castoridae,0.840304450177,0.612962934149,0.612962934149,0,0,Castoridae,0,50
+39,Castoridae,Castoridae,American Beaver,Castoridae-->American Beaver,0.840304450177,0.612962934149,0.612962934149,0,0,Castoridae,0,50
+39,American Beaver,Castoridae,American Beaver,Castoridae-->American Beaver,0.994641622386,0.618249551556,0.618249551556,0,0,0,American Beaver,20
+40,Mammal,Mammal,Rodentia,Mammal-->Rodentia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+40,Rodentia,Mammal,Rodentia,Mammal-->Rodentia,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+41,Rodentia,Rodentia,Cricetidae,Rodentia-->Cricetidae,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+41,Cricetidae,Rodentia,Cricetidae,Rodentia-->Cricetidae,0.826518170939,0.54966074771,0.54966074771,0,0,Cricetidae,0,50
+42,Cricetidae,Cricetidae,Southern Red-backed Vole,Cricetidae-->Southern Red-backed Vole,0.826518170939,0.54966074771,0.54966074771,0,0,Cricetidae,0,50
+42,Southern Red-backed Vole,Cricetidae,Southern Red-backed Vole,Cricetidae-->Southern Red-backed Vole,0.954352549843,0.586696102016,0.586696102016,0,0,0,Southern Red-backed Vole,20
+43,Mammal,Mammal,Rodentia,Mammal-->Rodentia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+43,Rodentia,Mammal,Rodentia,Mammal-->Rodentia,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+44,Rodentia,Rodentia,Cricetidae,Rodentia-->Cricetidae,0.692368242186,0.584818240799,0.584818240799,0,Rodentia,0,0,100
+44,Cricetidae,Rodentia,Cricetidae,Rodentia-->Cricetidae,0.826518170939,0.54966074771,0.54966074771,0,0,Cricetidae,0,50
+45,Cricetidae,Cricetidae,Long-tailed Vole,Cricetidae-->Long-tailed Vole,0.826518170939,0.54966074771,0.54966074771,0,0,Cricetidae,0,50
+45,Long-tailed Vole,Cricetidae,Long-tailed Vole,Cricetidae-->Long-tailed Vole,0.959462479037,0.475752890907,0.475752890907,0,0,0,Long-tailed Vole,20
+46,Mammal,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+46,Soricomorpha,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+47,Soricomorpha,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+47,Soricidae,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+48,Soricidae,Soricidae,Masked Shrew,Soricidae-->Masked Shrew,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+48,Masked Shrew,Soricidae,Masked Shrew,Soricidae-->Masked Shrew,0.275346921106,0.209604470911,0.209604470911,0,0,0,Masked Shrew,20
+49,Mammal,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+49,Soricomorpha,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+50,Soricomorpha,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+50,Soricidae,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+51,Soricidae,Soricidae,Merriam's Shrew,Soricidae-->Merriam's Shrew,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+51,Merriam's Shrew,Soricidae,Merriam's Shrew,Soricidae-->Merriam's Shrew,0.30175422606,0.316543842016,0.316543842016,0,0,0,Merriam's Shrew,20
+52,Mammal,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+52,Soricomorpha,Mammal,Soricomorpha,Mammal-->Soricomorpha,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+53,Soricomorpha,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.5078602685,0.466984494463,0.466984494463,0,Soricomorpha,0,0,100
+53,Soricidae,Soricomorpha,Soricidae,Soricomorpha-->Soricidae,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+54,Soricidae,Soricidae,Montane Shrew,Soricidae-->Montane Shrew,0.401545225484,0.335187843668,0.335187843668,0,0,Soricidae,0,50
+54,Montane Shrew,Soricidae,Montane Shrew,Soricidae-->Montane Shrew,0.357888460437,0.261925507994,0.261925507994,0,0,0,Montane Shrew,20
+55,Mammal,Mammal,Cetacea,Mammal-->Cetacea,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+55,Cetacea,Mammal,Cetacea,Mammal-->Cetacea,0.680606048661,0.651689259913,0.651689259913,0,Cetacea,0,0,100
+56,Cetacea,Cetacea,Balaenopteridae,Cetacea-->Balaenopteridae,0.680606048661,0.651689259913,0.651689259913,0,Cetacea,0,0,100
+56,Balaenopteridae,Cetacea,Balaenopteridae,Cetacea-->Balaenopteridae,0.856458046606,0.710698573264,0.710698573264,0,0,Balaenopteridae,0,50
+57,Balaenopteridae,Balaenopteridae,Minke whale,Balaenopteridae-->Minke whale,0.856458046606,0.710698573264,0.710698573264,0,0,Balaenopteridae,0,50
+57,Minke whale,Balaenopteridae,Minke whale,Balaenopteridae-->Minke whale,0.948509206563,0.853876162217,0.853876162217,0,0,0,Minke whale,20
+58,Mammal,Mammal,Cetacea,Mammal-->Cetacea,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+58,Cetacea,Mammal,Cetacea,Mammal-->Cetacea,0.680606048661,0.651689259913,0.651689259913,0,Cetacea,0,0,100
+59,Cetacea,Cetacea,Balaenopteridae,Cetacea-->Balaenopteridae,0.680606048661,0.651689259913,0.651689259913,0,Cetacea,0,0,100
+59,Balaenopteridae,Cetacea,Balaenopteridae,Cetacea-->Balaenopteridae,0.856458046606,0.710698573264,0.710698573264,0,0,Balaenopteridae,0,50
+60,Balaenopteridae,Balaenopteridae,Sei whale,Balaenopteridae-->Sei whale,0.856458046606,0.710698573264,0.710698573264,0,0,Balaenopteridae,0,50
+60,Sei whale,Balaenopteridae,Sei whale,Balaenopteridae-->Sei whale,0.995248105286,0.567118838123,0.567118838123,0,0,0,Sei whale,20
+61,Mammal,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+61,Didelphimorphia,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+62,Didelphimorphia,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+62,Didelphidae,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+63,Didelphidae,Didelphidae,virginia opossum,Didelphidae-->virginia opossum,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+63,virginia opossum,Didelphidae,virginia opossum,Didelphidae-->virginia opossum,0.933599661874,0.171417194575,0.171417194575,0,0,0,virginia opossum,20
+64,Mammal,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+64,Didelphimorphia,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+65,Didelphimorphia,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+65,Didelphidae,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+66,Didelphidae,Didelphidae,Virginia opossum,Didelphidae-->Virginia opossum,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+66,Virginia opossum,Didelphidae,Virginia opossum,Didelphidae-->Virginia opossum,0.986122894703,0.23354792758,0.23354792758,0,0,0,Virginia opossum,20
+67,Mammal,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+67,Perissodactyla,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+68,Perissodactyla,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+68,Equidae,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+69,Equidae,Equidae,"ass, burro (feral)","Equidae-->ass, burro (feral)",0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+69,"ass, burro (feral)",Equidae,"ass, burro (feral)","Equidae-->ass, burro (feral)",0.000277002581902,0.645483693734,0.645483693734,0,0,0,"ass, burro (feral)",20
+70,Mammal,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+70,Didelphimorphia,Mammal,Didelphimorphia,Mammal-->Didelphimorphia,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+71,Didelphimorphia,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.686458003455,0.473079020083,0.473079020083,0,Didelphimorphia,0,0,100
+71,Didelphidae,Didelphimorphia,Didelphidae,Didelphimorphia-->Didelphidae,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+72,Didelphidae,Didelphidae,Virginia Opossum,Didelphidae-->Virginia Opossum,0.862564438398,0.341630532087,0.341630532087,0,0,Didelphidae,0,50
+72,Virginia Opossum,Didelphidae,Virginia Opossum,Didelphidae-->Virginia Opossum,1.0,0.332638351171,0.332638351171,0,0,0,Virginia Opossum,20
+73,Mammal,Mammal,Sirenia,Mammal-->Sirenia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+73,Sirenia,Mammal,Sirenia,Mammal-->Sirenia,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+74,Sirenia,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+74,Trichechidae,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+75,Trichechidae,Trichechidae,"Caribbean manatee, manatee, West Indian Manatee","Trichechidae-->Caribbean manatee, manatee, West Indian Manatee",0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+75,"Caribbean manatee, manatee, West Indian Manatee",Trichechidae,"Caribbean manatee, manatee, West Indian Manatee","Trichechidae-->Caribbean manatee, manatee, West Indian Manatee",0.078323662808,0.494436537387,0.494436537387,0,0,0,"Caribbean manatee, manatee, West Indian Manatee",20
+76,Mammal,Mammal,Cingulata,Mammal-->Cingulata,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+76,Cingulata,Mammal,Cingulata,Mammal-->Cingulata,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+77,Cingulata,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+77,Dasypodidae,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+78,Dasypodidae,Dasypodidae,Nine-banded Armadillo,Dasypodidae-->Nine-banded Armadillo,0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+78,Nine-banded Armadillo,Dasypodidae,Nine-banded Armadillo,Dasypodidae-->Nine-banded Armadillo,0.55801351547,0.0,0.0,0,0,0,Nine-banded Armadillo,20
+79,Mammal,Mammal,Sirenia,Mammal-->Sirenia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+79,Sirenia,Mammal,Sirenia,Mammal-->Sirenia,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+80,Sirenia,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+80,Trichechidae,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+81,Trichechidae,Trichechidae,MANATEE; MANATI,Trichechidae-->MANATEE; MANATI,0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+81,MANATEE; MANATI,Trichechidae,MANATEE; MANATI,Trichechidae-->MANATEE; MANATI,0.0471456667324,0.630894903984,0.630894903984,0,0,0,MANATEE; MANATI,20
+82,Mammal,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+82,Perissodactyla,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+83,Perissodactyla,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+83,Equidae,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+84,Equidae,Equidae,"Asses, Horses, Zebras","Equidae-->Asses, Horses, Zebras",0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+84,"Asses, Horses, Zebras",Equidae,"Asses, Horses, Zebras","Equidae-->Asses, Horses, Zebras",0.0,0.785645199008,0.785645199008,0,0,0,"Asses, Horses, Zebras",20
+85,Mammal,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+85,Perissodactyla,Mammal,Perissodactyla,Mammal-->Perissodactyla,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+86,Perissodactyla,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.377540540852,0.655907618057,0.655907618057,0,Perissodactyla,0,0,100
+86,Equidae,Perissodactyla,Equidae,Perissodactyla-->Equidae,0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+87,Equidae,Equidae,horse,Equidae-->horse,0.173869789168,0.725796724251,0.725796724251,0,0,Equidae,0,50
+87,horse,Equidae,horse,Equidae-->horse,0.0521182062296,0.856999096066,0.856999096066,0,0,0,horse,20
+88,Mammal,Mammal,Primates,Mammal-->Primates,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+88,Primates,Mammal,Primates,Mammal-->Primates,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+89,Primates,Primates,Hominidae,Primates-->Hominidae,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+89,Hominidae,Primates,Hominidae,Primates-->Hominidae,0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+90,Hominidae,Hominidae,"Human, Humans, man","Hominidae-->Human, Humans, man",0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+90,"Human, Humans, man",Hominidae,"Human, Humans, man","Hominidae-->Human, Humans, man",0.284808919512,0.993539084941,0.993539084941,0,0,0,"Human, Humans, man",20
+91,Mammal,Mammal,Cingulata,Mammal-->Cingulata,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+91,Cingulata,Mammal,Cingulata,Mammal-->Cingulata,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+92,Cingulata,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+92,Dasypodidae,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+93,Dasypodidae,Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo","Dasypodidae-->long-nosed armadillo, Nine-banded Armadillo",0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+93,"long-nosed armadillo, Nine-banded Armadillo",Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo","Dasypodidae-->long-nosed armadillo, Nine-banded Armadillo",0.473713563169,0.00492878040656,0.00492878040656,0,0,0,"long-nosed armadillo, Nine-banded Armadillo",20
+94,Mammal,Mammal,Cingulata,Mammal-->Cingulata,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+94,Cingulata,Mammal,Cingulata,Mammal-->Cingulata,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+95,Cingulata,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.527540083704,0.415318651189,0.415318651189,0,Cingulata,0,0,100
+95,Dasypodidae,Cingulata,Dasypodidae,Cingulata-->Dasypodidae,0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+96,Dasypodidae,Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo","Dasypodidae-->long-nosed armadillo, Nine-banded Armadillo",0.522573760532,0.191376612356,0.191376612356,0,0,Dasypodidae,0,50
+96,"long-nosed armadillo, Nine-banded Armadillo",Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo","Dasypodidae-->long-nosed armadillo, Nine-banded Armadillo",0.473713563169,0.00492878040656,0.00492878040656,0,0,0,"long-nosed armadillo, Nine-banded Armadillo",20
+97,Mammal,Mammal,Sirenia,Mammal-->Sirenia,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+97,Sirenia,Mammal,Sirenia,Mammal-->Sirenia,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+98,Sirenia,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.416852500901,0.610360446344,0.610360446344,0,Sirenia,0,0,100
+98,Trichechidae,Sirenia,Trichechidae,Sirenia-->Trichechidae,0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+99,Trichechidae,Trichechidae,"Caribbean manatee, manatee, West Indian Manatee","Trichechidae-->Caribbean manatee, manatee, West Indian Manatee",0.225530155721,0.604916781786,0.604916781786,0,0,Trichechidae,0,50
+99,"Caribbean manatee, manatee, West Indian Manatee",Trichechidae,"Caribbean manatee, manatee, West Indian Manatee","Trichechidae-->Caribbean manatee, manatee, West Indian Manatee",0.078323662808,0.494436537387,0.494436537387,0,0,0,"Caribbean manatee, manatee, West Indian Manatee",20
+100,Mammal,Mammal,Primates,Mammal-->Primates,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+100,Primates,Mammal,Primates,Mammal-->Primates,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+101,Primates,Primates,Hominidae,Primates-->Hominidae,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+101,Hominidae,Primates,Hominidae,Primates-->Hominidae,0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+102,Hominidae,Hominidae,hominoids,Hominidae-->hominoids,0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+102,hominoids,Hominidae,hominoids,Hominidae-->hominoids,0.227669528841,0.818869427407,0.818869427407,0,0,0,hominoids,20
+103,Mammal,Mammal,Primates,Mammal-->Primates,0.559136080778,0.572728344563,0.572728344563,Mammal,0,0,0,200
+103,Primates,Mammal,Primates,Mammal-->Primates,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+104,Primates,Primates,Hominidae,Primates-->Hominidae,0.459197264902,0.715440107446,0.715440107446,0,Primates,0,0,100
+104,Hominidae,Primates,Hominidae,Primates-->Hominidae,0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+105,Hominidae,Hominidae,"Human, Humans, man","Hominidae-->Human, Humans, man",0.355425653131,0.845170296316,0.845170296316,0,0,Hominidae,0,50
+105,"Human, Humans, man",Hominidae,"Human, Humans, man","Hominidae-->Human, Humans, man",0.284808919512,0.993539084941,0.993539084941,0,0,0,"Human, Humans, man",20

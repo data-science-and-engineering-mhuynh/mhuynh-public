@@ -1,0 +1,62 @@
+Node,Category,Order,Family,Common Names,Weight
+Mammal,Mammal,0,0,0,200
+Artiodactyla,0,Artiodactyla,0,0,100
+Carnivora,0,Carnivora,0,0,100
+Chiroptera,0,Chiroptera,0,0,100
+Lagomorpha,0,Lagomorpha,0,0,100
+Rodentia,0,Rodentia,0,0,100
+Soricomorpha,0,Soricomorpha,0,0,100
+Cetacea,0,Cetacea,0,0,100
+Didelphimorphia,0,Didelphimorphia,0,0,100
+Perissodactyla,0,Perissodactyla,0,0,100
+Sirenia,0,Sirenia,0,0,100
+Cingulata,0,Cingulata,0,0,100
+Primates,0,Primates,0,0,100
+Antilocapridae,0,0,Antilocapridae,0,50
+Bovidae,0,0,Bovidae,0,50
+Cervidae,0,0,Cervidae,0,50
+Canidae,0,0,Canidae,0,50
+Molossidae,0,0,Molossidae,0,50
+Vespertilionidae,0,0,Vespertilionidae,0,50
+Leporidae,0,0,Leporidae,0,50
+Castoridae,0,0,Castoridae,0,50
+Cricetidae,0,0,Cricetidae,0,50
+Soricidae,0,0,Soricidae,0,50
+Balaenopteridae,0,0,Balaenopteridae,0,50
+Didelphidae,0,0,Didelphidae,0,50
+Equidae,0,0,Equidae,0,50
+Trichechidae,0,0,Trichechidae,0,50
+Dasypodidae,0,0,Dasypodidae,0,50
+Hominidae,0,0,Hominidae,0,50
+Pronghorn,0,0,0,Pronghorn,20
+Bighorn Sheep,0,0,0,Bighorn Sheep,20
+Elk,0,0,0,Elk,20
+Coyote,0,0,0,Coyote,20
+Common Gray Fox,0,0,0,Common Gray Fox,20
+Red Fox,0,0,0,Red Fox,20
+Big Free-tailed Bat,0,0,0,Big Free-tailed Bat,20
+Brazilian Free-tailed Bat,0,0,0,Brazilian Free-tailed Bat,20
+Pallid Bat,0,0,0,Pallid Bat,20
+Snowshoe Hare,0,0,0,Snowshoe Hare,20
+White-tailed Jackrabbit,0,0,0,White-tailed Jackrabbit,20
+Desert Cottontail,0,0,0,Desert Cottontail,20
+American Beaver,0,0,0,American Beaver,20
+Southern Red-backed Vole,0,0,0,Southern Red-backed Vole,20
+Long-tailed Vole,0,0,0,Long-tailed Vole,20
+Masked Shrew,0,0,0,Masked Shrew,20
+Merriam's Shrew,0,0,0,Merriam's Shrew,20
+Montane Shrew,0,0,0,Montane Shrew,20
+Minke whale,0,0,0,Minke whale,20
+Sei whale,0,0,0,Sei whale,20
+virginia opossum,0,0,0,virginia opossum,20
+Virginia opossum,0,0,0,Virginia opossum,20
+"ass, burro (feral)",0,0,0,"ass, burro (feral)",20
+Virginia Opossum,0,0,0,Virginia Opossum,20
+"Caribbean manatee, manatee, West Indian Manatee",0,0,0,"Caribbean manatee, manatee, West Indian Manatee",20
+Nine-banded Armadillo,0,0,0,Nine-banded Armadillo,20
+MANATEE; MANATI,0,0,0,MANATEE; MANATI,20
+"Asses, Horses, Zebras",0,0,0,"Asses, Horses, Zebras",20
+horse,0,0,0,horse,20
+"Human, Humans, man",0,0,0,"Human, Humans, man",20
+"long-nosed armadillo, Nine-banded Armadillo",0,0,0,"long-nosed armadillo, Nine-banded Armadillo",20
+hominoids,0,0,0,hominoids,20

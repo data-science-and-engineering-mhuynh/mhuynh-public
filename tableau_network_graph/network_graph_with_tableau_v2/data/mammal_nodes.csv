@@ -1,0 +1,99 @@
+Node,Category,Order,Family,Common Names,Weight
+Bird,Bird,0,0,0,200
+Accipitriformes,0,Accipitriformes,0,0,100
+Anseriformes,0,Anseriformes,0,0,100
+Apodiformes,0,Apodiformes,0,0,100
+Caprimulgiformes,0,Caprimulgiformes,0,0,100
+Charadriiformes,0,Charadriiformes,0,0,100
+Columbiformes,0,Columbiformes,0,0,100
+Coraciiformes,0,Coraciiformes,0,0,100
+Falconiformes,0,Falconiformes,0,0,100
+Galliformes,0,Galliformes,0,0,100
+Gruiformes,0,Gruiformes,0,0,100
+Passeriformes,0,Passeriformes,0,0,100
+Pelecaniformes,0,Pelecaniformes,0,0,100
+Piciformes,0,Piciformes,0,0,100
+Podicipediformes,0,Podicipediformes,0,0,100
+Strigiformes,0,Strigiformes,0,0,100
+Gaviiformes,0,Gaviiformes,0,0,100
+Procellariiformes,0,Procellariiformes,0,0,100
+Suliformes,0,Suliformes,0,0,100
+Cuculiformes,0,Cuculiformes,0,0,100
+Phaethontiformes,0,Phaethontiformes,0,0,100
+Phoenicopteriformes,0,Phoenicopteriformes,0,0,100
+Trogoniformes,0,Trogoniformes,0,0,100
+Ciconiiformes,0,Ciconiiformes,0,0,100
+Psittaciformes,0,Psittaciformes,0,0,100
+Accipitridae,0,0,Accipitridae,0,50
+Anatidae,0,0,Anatidae,0,50
+Apodidae,0,0,Apodidae,0,50
+Caprimulgidae,0,0,Caprimulgidae,0,50
+Charadriidae,0,0,Charadriidae,0,50
+Laridae,0,0,Laridae,0,50
+Columbidae,0,0,Columbidae,0,50
+Alcedinidae,0,0,Alcedinidae,0,50
+Falconidae,0,0,Falconidae,0,50
+Odontophoridae,0,0,Odontophoridae,0,50
+Phasianidae,0,0,Phasianidae,0,50
+Gruidae,0,0,Gruidae,0,50
+Rallidae,0,0,Rallidae,0,50
+Aegithalidae,0,0,Aegithalidae,0,50
+Alaudidae,0,0,Alaudidae,0,50
+Ardeidae,0,0,Ardeidae,0,50
+Picidae,0,0,Picidae,0,50
+Podicipedidae,0,0,Podicipedidae,0,50
+Strigidae,0,0,Strigidae,0,50
+Gaviidae,0,0,Gaviidae,0,50
+Diomedeidae,0,0,Diomedeidae,0,50
+Phalacrocoracidae,0,0,Phalacrocoracidae,0,50
+Cuculidae,0,0,Cuculidae,0,50
+Phaethontidae,0,0,Phaethontidae,0,50
+Phoenicopteridae,0,0,Phoenicopteridae,0,50
+Trogonidae,0,0,Trogonidae,0,50
+Ciconiidae,0,0,Ciconiidae,0,50
+Psittacidae,0,0,Psittacidae,0,50
+Cooper's Hawk,0,0,0,Cooper's Hawk,20
+Northern Goshawk,0,0,0,Northern Goshawk,20
+Northern Pintail,0,0,0,Northern Pintail,20
+American Wigeon,0,0,0,American Wigeon,20
+White-throated Swift,0,0,0,White-throated Swift,20
+Black Swift,0,0,0,Black Swift,20
+Common Nighthawk,0,0,0,Common Nighthawk,20
+Common Poorwill,0,0,0,Common Poorwill,20
+Killdeer,0,0,0,Killdeer,20
+California Gull,0,0,0,California Gull,20
+Rock Dove,0,0,0,Rock Dove,20
+Band-tailed Pigeon,0,0,0,Band-tailed Pigeon,20
+Belted Kingfisher,0,0,0,Belted Kingfisher,20
+Merlin,0,0,0,Merlin,20
+Prairie Falcon,0,0,0,Prairie Falcon,20
+Gambel's Quail,0,0,0,Gambel's Quail,20
+Chukar,0,0,0,Chukar,20
+Sandhill Crane,0,0,0,Sandhill Crane,20
+American Coot,0,0,0,American Coot,20
+Bushtit,0,0,0,Bushtit,20
+Horned Lark,0,0,0,Horned Lark,20
+Great Blue Heron,0,0,0,Great Blue Heron,20
+Black-crowned Night-Heron,0,0,0,Black-crowned Night-Heron,20
+Northern Flicker (Red-shafted),0,0,0,Northern Flicker (Red-shafted),20
+Lewis's Woodpecker,0,0,0,Lewis's Woodpecker,20
+Pied-billed Grebe,0,0,0,Pied-billed Grebe,20
+Northern Saw-whet Owl,0,0,0,Northern Saw-whet Owl,20
+Long-eared Owl,0,0,0,Long-eared Owl,20
+Belted kingfisher,0,0,0,Belted kingfisher,20
+Yellow-billed loon,0,0,0,Yellow-billed loon,20
+Arctic loon,0,0,0,Arctic loon,20
+Western Grebe,0,0,0,Western Grebe,20
+Short-tailed albatross,0,0,0,Short-tailed albatross,20
+Laysan albatross,0,0,0,Laysan albatross,20
+Double-crested cormorant,0,0,0,Double-crested cormorant,20
+Pelagic cormorant,0,0,0,Pelagic cormorant,20
+Yellow-billed cuckoo,0,0,0,Yellow-billed cuckoo,20
+Black-billed cuckoo,0,0,0,Black-billed cuckoo,20
+White-tailed Tropicbird,0,0,0,White-tailed Tropicbird,20
+"American Flamingo, Greater Flamingo",0,0,0,"American Flamingo, Greater Flamingo",20
+Elegant Trogon,0,0,0,Elegant Trogon,20
+Red-billed Tropicbird,0,0,0,Red-billed Tropicbird,20
+Wood Stork,0,0,0,Wood Stork,20
+"Canary-winged Parakeet, White-winged Parakeet",0,0,0,"Canary-winged Parakeet, White-winged Parakeet",20
+Budgerigar,0,0,0,Budgerigar,20

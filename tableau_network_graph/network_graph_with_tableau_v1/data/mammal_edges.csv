@@ -1,0 +1,106 @@
+Source,Target,Weight
+Mammal,Artiodactyla,200
+Artiodactyla,Antilocapridae,100
+Antilocapridae,Pronghorn,50
+Mammal,Artiodactyla,200
+Artiodactyla,Bovidae,100
+Bovidae,Bighorn Sheep,50
+Mammal,Artiodactyla,200
+Artiodactyla,Cervidae,100
+Cervidae,Elk,50
+Mammal,Carnivora,200
+Carnivora,Canidae,100
+Canidae,Coyote,50
+Mammal,Carnivora,200
+Carnivora,Canidae,100
+Canidae,Common Gray Fox,50
+Mammal,Carnivora,200
+Carnivora,Canidae,100
+Canidae,Red Fox,50
+Mammal,Chiroptera,200
+Chiroptera,Molossidae,100
+Molossidae,Big Free-tailed Bat,50
+Mammal,Chiroptera,200
+Chiroptera,Molossidae,100
+Molossidae,Brazilian Free-tailed Bat,50
+Mammal,Chiroptera,200
+Chiroptera,Vespertilionidae,100
+Vespertilionidae,Pallid Bat,50
+Mammal,Lagomorpha,200
+Lagomorpha,Leporidae,100
+Leporidae,Snowshoe Hare,50
+Mammal,Lagomorpha,200
+Lagomorpha,Leporidae,100
+Leporidae,White-tailed Jackrabbit,50
+Mammal,Lagomorpha,200
+Lagomorpha,Leporidae,100
+Leporidae,Desert Cottontail,50
+Mammal,Rodentia,200
+Rodentia,Castoridae,100
+Castoridae,American Beaver,50
+Mammal,Rodentia,200
+Rodentia,Cricetidae,100
+Cricetidae,Southern Red-backed Vole,50
+Mammal,Rodentia,200
+Rodentia,Cricetidae,100
+Cricetidae,Long-tailed Vole,50
+Mammal,Soricomorpha,200
+Soricomorpha,Soricidae,100
+Soricidae,Masked Shrew,50
+Mammal,Soricomorpha,200
+Soricomorpha,Soricidae,100
+Soricidae,Merriam's Shrew,50
+Mammal,Soricomorpha,200
+Soricomorpha,Soricidae,100
+Soricidae,Montane Shrew,50
+Mammal,Cetacea,200
+Cetacea,Balaenopteridae,100
+Balaenopteridae,Minke whale,50
+Mammal,Cetacea,200
+Cetacea,Balaenopteridae,100
+Balaenopteridae,Sei whale,50
+Mammal,Didelphimorphia,200
+Didelphimorphia,Didelphidae,100
+Didelphidae,virginia opossum,50
+Mammal,Didelphimorphia,200
+Didelphimorphia,Didelphidae,100
+Didelphidae,Virginia opossum,50
+Mammal,Perissodactyla,200
+Perissodactyla,Equidae,100
+Equidae,"ass, burro (feral)",50
+Mammal,Didelphimorphia,200
+Didelphimorphia,Didelphidae,100
+Didelphidae,Virginia Opossum,50
+Mammal,Sirenia,200
+Sirenia,Trichechidae,100
+Trichechidae,"Caribbean manatee, manatee, West Indian Manatee",50
+Mammal,Cingulata,200
+Cingulata,Dasypodidae,100
+Dasypodidae,Nine-banded Armadillo,50
+Mammal,Sirenia,200
+Sirenia,Trichechidae,100
+Trichechidae,MANATEE; MANATI,50
+Mammal,Perissodactyla,200
+Perissodactyla,Equidae,100
+Equidae,"Asses, Horses, Zebras",50
+Mammal,Perissodactyla,200
+Perissodactyla,Equidae,100
+Equidae,horse,50
+Mammal,Primates,200
+Primates,Hominidae,100
+Hominidae,"Human, Humans, man",50
+Mammal,Cingulata,200
+Cingulata,Dasypodidae,100
+Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo",50
+Mammal,Cingulata,200
+Cingulata,Dasypodidae,100
+Dasypodidae,"long-nosed armadillo, Nine-banded Armadillo",50
+Mammal,Sirenia,200
+Sirenia,Trichechidae,100
+Trichechidae,"Caribbean manatee, manatee, West Indian Manatee",50
+Mammal,Primates,200
+Primates,Hominidae,100
+Hominidae,hominoids,50
+Mammal,Primates,200
+Primates,Hominidae,100
+Hominidae,"Human, Humans, man",50

@@ -1,0 +1,289 @@
+ID,Node,Source,Target,Relationship,X,Y,CycleY,Category,Order,Family,Common Names,Weight
+1,Bird,Bird,Accipitriformes,Bird-->Accipitriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+1,Accipitriformes,Bird,Accipitriformes,Bird-->Accipitriformes,0.567337837848,0.380050670212,0.380050670212,0,Accipitriformes,0,0,100
+2,Accipitriformes,Accipitriformes,Accipitridae,Accipitriformes-->Accipitridae,0.567337837848,0.380050670212,0.380050670212,0,Accipitriformes,0,0,100
+2,Accipitridae,Accipitriformes,Accipitridae,Accipitriformes-->Accipitridae,0.642164612845,0.236117504577,0.236117504577,0,0,Accipitridae,0,50
+3,Accipitridae,Accipitridae,Cooper's Hawk,Accipitridae-->Cooper's Hawk,0.642164612845,0.236117504577,0.236117504577,0,0,Accipitridae,0,50
+3,Cooper's Hawk,Accipitridae,Cooper's Hawk,Accipitridae-->Cooper's Hawk,0.554551524094,0.0770245424273,0.0770245424273,0,0,0,Cooper's Hawk,20
+4,Bird,Bird,Accipitriformes,Bird-->Accipitriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+4,Accipitriformes,Bird,Accipitriformes,Bird-->Accipitriformes,0.567337837848,0.380050670212,0.380050670212,0,Accipitriformes,0,0,100
+5,Accipitriformes,Accipitriformes,Accipitridae,Accipitriformes-->Accipitridae,0.567337837848,0.380050670212,0.380050670212,0,Accipitriformes,0,0,100
+5,Accipitridae,Accipitriformes,Accipitridae,Accipitriformes-->Accipitridae,0.642164612845,0.236117504577,0.236117504577,0,0,Accipitridae,0,50
+6,Accipitridae,Accipitridae,Northern Goshawk,Accipitridae-->Northern Goshawk,0.642164612845,0.236117504577,0.236117504577,0,0,Accipitridae,0,50
+6,Northern Goshawk,Accipitridae,Northern Goshawk,Accipitridae-->Northern Goshawk,0.7939535956,0.191964199689,0.191964199689,0,0,0,Northern Goshawk,20
+7,Bird,Bird,Anseriformes,Bird-->Anseriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+7,Anseriformes,Bird,Anseriformes,Bird-->Anseriformes,0.354055321181,0.583144411801,0.583144411801,0,Anseriformes,0,0,100
+8,Anseriformes,Anseriformes,Anatidae,Anseriformes-->Anatidae,0.354055321181,0.583144411801,0.583144411801,0,Anseriformes,0,0,100
+8,Anatidae,Anseriformes,Anatidae,Anseriformes-->Anatidae,0.224864169248,0.708568440134,0.708568440134,0,0,Anatidae,0,50
+9,Anatidae,Anatidae,Northern Pintail,Anatidae-->Northern Pintail,0.224864169248,0.708568440134,0.708568440134,0,0,Anatidae,0,50
+9,Northern Pintail,Anatidae,Northern Pintail,Anatidae-->Northern Pintail,0.110824595221,0.597227071091,0.597227071091,0,0,0,Northern Pintail,20
+10,Bird,Bird,Anseriformes,Bird-->Anseriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+10,Anseriformes,Bird,Anseriformes,Bird-->Anseriformes,0.354055321181,0.583144411801,0.583144411801,0,Anseriformes,0,0,100
+11,Anseriformes,Anseriformes,Anatidae,Anseriformes-->Anatidae,0.354055321181,0.583144411801,0.583144411801,0,Anseriformes,0,0,100
+11,Anatidae,Anseriformes,Anatidae,Anseriformes-->Anatidae,0.224864169248,0.708568440134,0.708568440134,0,0,Anatidae,0,50
+12,Anatidae,Anatidae,American Wigeon,Anatidae-->American Wigeon,0.224864169248,0.708568440134,0.708568440134,0,0,Anatidae,0,50
+12,American Wigeon,Anatidae,American Wigeon,Anatidae-->American Wigeon,0.256496367097,0.879434327587,0.879434327587,0,0,0,American Wigeon,20
+13,Bird,Bird,Apodiformes,Bird-->Apodiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+13,Apodiformes,Bird,Apodiformes,Bird-->Apodiformes,0.619747412532,0.504951001563,0.504951001563,0,Apodiformes,0,0,100
+14,Apodiformes,Apodiformes,Apodidae,Apodiformes-->Apodidae,0.619747412532,0.504951001563,0.504951001563,0,Apodiformes,0,0,100
+14,Apodidae,Apodiformes,Apodidae,Apodiformes-->Apodidae,0.785795554817,0.555782532891,0.555782532891,0,0,Apodidae,0,50
+15,Apodidae,Apodidae,White-throated Swift,Apodidae-->White-throated Swift,0.785795554817,0.555782532891,0.555782532891,0,0,Apodidae,0,50
+15,White-throated Swift,Apodidae,White-throated Swift,Apodidae-->White-throated Swift,0.814268669854,0.659319217351,0.659319217351,0,0,0,White-throated Swift,20
+16,Bird,Bird,Apodiformes,Bird-->Apodiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+16,Apodiformes,Bird,Apodiformes,Bird-->Apodiformes,0.619747412532,0.504951001563,0.504951001563,0,Apodiformes,0,0,100
+17,Apodiformes,Apodiformes,Apodidae,Apodiformes-->Apodidae,0.619747412532,0.504951001563,0.504951001563,0,Apodiformes,0,0,100
+17,Apodidae,Apodiformes,Apodidae,Apodiformes-->Apodidae,0.785795554817,0.555782532891,0.555782532891,0,0,Apodidae,0,50
+18,Apodidae,Apodidae,Black Swift,Apodidae-->Black Swift,0.785795554817,0.555782532891,0.555782532891,0,0,Apodidae,0,50
+18,Black Swift,Apodidae,Black Swift,Apodidae-->Black Swift,0.894506862146,0.600879933743,0.600879933743,0,0,0,Black Swift,20
+19,Bird,Bird,Caprimulgiformes,Bird-->Caprimulgiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+19,Caprimulgiformes,Bird,Caprimulgiformes,Bird-->Caprimulgiformes,0.55406206924,0.571110510391,0.571110510391,0,Caprimulgiformes,0,0,100
+20,Caprimulgiformes,Caprimulgiformes,Caprimulgidae,Caprimulgiformes-->Caprimulgidae,0.55406206924,0.571110510391,0.571110510391,0,Caprimulgiformes,0,0,100
+20,Caprimulgidae,Caprimulgiformes,Caprimulgidae,Caprimulgiformes-->Caprimulgidae,0.649503270287,0.66288422761,0.66288422761,0,0,Caprimulgidae,0,50
+21,Caprimulgidae,Caprimulgidae,Common Nighthawk,Caprimulgidae-->Common Nighthawk,0.649503270287,0.66288422761,0.66288422761,0,0,Caprimulgidae,0,50
+21,Common Nighthawk,Caprimulgidae,Common Nighthawk,Caprimulgidae-->Common Nighthawk,0.789828679254,0.497602321322,0.497602321322,0,0,0,Common Nighthawk,20
+22,Bird,Bird,Caprimulgiformes,Bird-->Caprimulgiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+22,Caprimulgiformes,Bird,Caprimulgiformes,Bird-->Caprimulgiformes,0.55406206924,0.571110510391,0.571110510391,0,Caprimulgiformes,0,0,100
+23,Caprimulgiformes,Caprimulgiformes,Caprimulgidae,Caprimulgiformes-->Caprimulgidae,0.55406206924,0.571110510391,0.571110510391,0,Caprimulgiformes,0,0,100
+23,Caprimulgidae,Caprimulgiformes,Caprimulgidae,Caprimulgiformes-->Caprimulgidae,0.649503270287,0.66288422761,0.66288422761,0,0,Caprimulgidae,0,50
+24,Caprimulgidae,Caprimulgidae,Common Poorwill,Caprimulgidae-->Common Poorwill,0.649503270287,0.66288422761,0.66288422761,0,0,Caprimulgidae,0,50
+24,Common Poorwill,Caprimulgidae,Common Poorwill,Caprimulgidae-->Common Poorwill,0.599275054625,0.860075876495,0.860075876495,0,0,0,Common Poorwill,20
+25,Bird,Bird,Charadriiformes,Bird-->Charadriiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+25,Charadriiformes,Bird,Charadriiformes,Bird-->Charadriiformes,0.383333453766,0.470779812014,0.470779812014,0,Charadriiformes,0,0,100
+26,Charadriiformes,Charadriiformes,Charadriidae,Charadriiformes-->Charadriidae,0.383333453766,0.470779812014,0.470779812014,0,Charadriiformes,0,0,100
+26,Charadriidae,Charadriiformes,Charadriidae,Charadriiformes-->Charadriidae,0.409435570934,0.265506493409,0.265506493409,0,0,Charadriidae,0,50
+27,Charadriidae,Charadriidae,Killdeer,Charadriidae-->Killdeer,0.409435570934,0.265506493409,0.265506493409,0,0,Charadriidae,0,50
+27,Killdeer,Charadriidae,Killdeer,Charadriidae-->Killdeer,0.57552129228,0.0831958593451,0.0831958593451,0,0,0,Killdeer,20
+28,Bird,Bird,Charadriiformes,Bird-->Charadriiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+28,Charadriiformes,Bird,Charadriiformes,Bird-->Charadriiformes,0.383333453766,0.470779812014,0.470779812014,0,Charadriiformes,0,0,100
+29,Charadriiformes,Charadriiformes,Laridae,Charadriiformes-->Laridae,0.383333453766,0.470779812014,0.470779812014,0,Charadriiformes,0,0,100
+29,Laridae,Charadriiformes,Laridae,Charadriiformes-->Laridae,0.377511188544,0.707544905765,0.707544905765,0,0,Laridae,0,50
+30,Laridae,Laridae,California Gull,Laridae-->California Gull,0.377511188544,0.707544905765,0.707544905765,0,0,Laridae,0,50
+30,California Gull,Laridae,California Gull,Laridae-->California Gull,0.518962090278,0.932897616719,0.932897616719,0,0,0,California Gull,20
+31,Bird,Bird,Columbiformes,Bird-->Columbiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+31,Columbiformes,Bird,Columbiformes,Bird-->Columbiformes,0.307130799596,0.447881735457,0.447881735457,0,Columbiformes,0,0,100
+32,Columbiformes,Columbiformes,Columbidae,Columbiformes-->Columbidae,0.307130799596,0.447881735457,0.447881735457,0,Columbiformes,0,0,100
+32,Columbidae,Columbiformes,Columbidae,Columbiformes-->Columbidae,0.175652646628,0.396633670137,0.396633670137,0,0,Columbidae,0,50
+33,Columbidae,Columbidae,Rock Dove,Columbidae-->Rock Dove,0.175652646628,0.396633670137,0.396633670137,0,0,Columbidae,0,50
+33,Rock Dove,Columbidae,Rock Dove,Columbidae-->Rock Dove,0.246664358429,0.54106517484,0.54106517484,0,0,0,Rock Dove,20
+34,Bird,Bird,Columbiformes,Bird-->Columbiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+34,Columbiformes,Bird,Columbiformes,Bird-->Columbiformes,0.307130799596,0.447881735457,0.447881735457,0,Columbiformes,0,0,100
+35,Columbiformes,Columbiformes,Columbidae,Columbiformes-->Columbidae,0.307130799596,0.447881735457,0.447881735457,0,Columbiformes,0,0,100
+35,Columbidae,Columbiformes,Columbidae,Columbiformes-->Columbidae,0.175652646628,0.396633670137,0.396633670137,0,0,Columbidae,0,50
+36,Columbidae,Columbidae,Band-tailed Pigeon,Columbidae-->Band-tailed Pigeon,0.175652646628,0.396633670137,0.396633670137,0,0,Columbidae,0,50
+36,Band-tailed Pigeon,Columbidae,Band-tailed Pigeon,Columbidae-->Band-tailed Pigeon,0.146905456107,0.31249760131,0.31249760131,0,0,0,Band-tailed Pigeon,20
+37,Bird,Bird,Coraciiformes,Bird-->Coraciiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+37,Coraciiformes,Bird,Coraciiformes,Bird-->Coraciiformes,0.465113218817,0.339542764265,0.339542764265,0,Coraciiformes,0,0,100
+38,Coraciiformes,Coraciiformes,Alcedinidae,Coraciiformes-->Alcedinidae,0.465113218817,0.339542764265,0.339542764265,0,Coraciiformes,0,0,100
+38,Alcedinidae,Coraciiformes,Alcedinidae,Coraciiformes-->Alcedinidae,0.471089662627,0.175907800968,0.175907800968,0,0,Alcedinidae,0,50
+39,Alcedinidae,Alcedinidae,Belted Kingfisher,Alcedinidae-->Belted Kingfisher,0.471089662627,0.175907800968,0.175907800968,0,0,Alcedinidae,0,50
+39,Belted Kingfisher,Alcedinidae,Belted Kingfisher,Alcedinidae-->Belted Kingfisher,0.677253080821,0.268784697106,0.268784697106,0,0,0,Belted Kingfisher,20
+40,Bird,Bird,Falconiformes,Bird-->Falconiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+40,Falconiformes,Bird,Falconiformes,Bird-->Falconiformes,0.343304560033,0.521454438181,0.521454438181,0,Falconiformes,0,0,100
+41,Falconiformes,Falconiformes,Falconidae,Falconiformes-->Falconidae,0.343304560033,0.521454438181,0.521454438181,0,Falconiformes,0,0,100
+41,Falconidae,Falconiformes,Falconidae,Falconiformes-->Falconidae,0.213918958421,0.567849873553,0.567849873553,0,0,Falconidae,0,50
+42,Falconidae,Falconidae,Merlin,Falconidae-->Merlin,0.213918958421,0.567849873553,0.567849873553,0,0,Falconidae,0,50
+42,Merlin,Falconidae,Merlin,Falconidae-->Merlin,0.0682421735238,0.516131569872,0.516131569872,0,0,0,Merlin,20
+43,Bird,Bird,Falconiformes,Bird-->Falconiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+43,Falconiformes,Bird,Falconiformes,Bird-->Falconiformes,0.343304560033,0.521454438181,0.521454438181,0,Falconiformes,0,0,100
+44,Falconiformes,Falconiformes,Falconidae,Falconiformes-->Falconidae,0.343304560033,0.521454438181,0.521454438181,0,Falconiformes,0,0,100
+44,Falconidae,Falconiformes,Falconidae,Falconiformes-->Falconidae,0.213918958421,0.567849873553,0.567849873553,0,0,Falconidae,0,50
+45,Falconidae,Falconidae,Prairie Falcon,Falconidae-->Prairie Falcon,0.213918958421,0.567849873553,0.567849873553,0,0,Falconidae,0,50
+45,Prairie Falcon,Falconidae,Prairie Falcon,Falconidae-->Prairie Falcon,0.16869081612,0.669251762514,0.669251762514,0,0,0,Prairie Falcon,20
+46,Bird,Bird,Galliformes,Bird-->Galliformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+46,Galliformes,Bird,Galliformes,Bird-->Galliformes,0.495713633992,0.381307419622,0.381307419622,0,Galliformes,0,0,100
+47,Galliformes,Galliformes,Odontophoridae,Galliformes-->Odontophoridae,0.495713633992,0.381307419622,0.381307419622,0,Galliformes,0,0,100
+47,Odontophoridae,Galliformes,Odontophoridae,Galliformes-->Odontophoridae,0.588202110167,0.394761192287,0.394761192287,0,0,Odontophoridae,0,50
+48,Odontophoridae,Odontophoridae,Gambel's Quail,Odontophoridae-->Gambel's Quail,0.588202110167,0.394761192287,0.394761192287,0,0,Odontophoridae,0,50
+48,Gambel's Quail,Odontophoridae,Gambel's Quail,Odontophoridae-->Gambel's Quail,0.553576841544,0.259648366948,0.259648366948,0,0,0,Gambel's Quail,20
+49,Bird,Bird,Galliformes,Bird-->Galliformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+49,Galliformes,Bird,Galliformes,Bird-->Galliformes,0.495713633992,0.381307419622,0.381307419622,0,Galliformes,0,0,100
+50,Galliformes,Galliformes,Phasianidae,Galliformes-->Phasianidae,0.495713633992,0.381307419622,0.381307419622,0,Galliformes,0,0,100
+50,Phasianidae,Galliformes,Phasianidae,Galliformes-->Phasianidae,0.513092378524,0.241331842241,0.241331842241,0,0,Phasianidae,0,50
+51,Phasianidae,Phasianidae,Chukar,Phasianidae-->Chukar,0.513092378524,0.241331842241,0.241331842241,0,0,Phasianidae,0,50
+51,Chukar,Phasianidae,Chukar,Phasianidae-->Chukar,0.675864494949,0.221167189831,0.221167189831,0,0,0,Chukar,20
+52,Bird,Bird,Gruiformes,Bird-->Gruiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+52,Gruiformes,Bird,Gruiformes,Bird-->Gruiformes,0.388655919974,0.583389431265,0.583389431265,0,Gruiformes,0,0,100
+53,Gruiformes,Gruiformes,Gruidae,Gruiformes-->Gruidae,0.388655919974,0.583389431265,0.583389431265,0,Gruiformes,0,0,100
+53,Gruidae,Gruiformes,Gruidae,Gruiformes-->Gruidae,0.210257515518,0.489574359156,0.489574359156,0,0,Gruidae,0,50
+54,Gruidae,Gruidae,Sandhill Crane,Gruidae-->Sandhill Crane,0.210257515518,0.489574359156,0.489574359156,0,0,Gruidae,0,50
+54,Sandhill Crane,Gruidae,Sandhill Crane,Gruidae-->Sandhill Crane,0.108884647801,0.397103069041,0.397103069041,0,0,0,Sandhill Crane,20
+55,Bird,Bird,Gruiformes,Bird-->Gruiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+55,Gruiformes,Bird,Gruiformes,Bird-->Gruiformes,0.388655919974,0.583389431265,0.583389431265,0,Gruiformes,0,0,100
+56,Gruiformes,Gruiformes,Rallidae,Gruiformes-->Rallidae,0.388655919974,0.583389431265,0.583389431265,0,Gruiformes,0,0,100
+56,Rallidae,Gruiformes,Rallidae,Gruiformes-->Rallidae,0.533950074548,0.720302669253,0.720302669253,0,0,Rallidae,0,50
+57,Rallidae,Rallidae,American Coot,Rallidae-->American Coot,0.533950074548,0.720302669253,0.720302669253,0,0,Rallidae,0,50
+57,American Coot,Rallidae,American Coot,Rallidae-->American Coot,0.705991995391,0.901192193456,0.901192193456,0,0,0,American Coot,20
+58,Bird,Bird,Passeriformes,Bird-->Passeriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+58,Passeriformes,Bird,Passeriformes,Bird-->Passeriformes,0.307255155894,0.603701449193,0.603701449193,0,Passeriformes,0,0,100
+59,Passeriformes,Passeriformes,Aegithalidae,Passeriformes-->Aegithalidae,0.307255155894,0.603701449193,0.603701449193,0,Passeriformes,0,0,100
+59,Aegithalidae,Passeriformes,Aegithalidae,Passeriformes-->Aegithalidae,0.401018161154,0.748674320695,0.748674320695,0,0,Aegithalidae,0,50
+60,Aegithalidae,Aegithalidae,Bushtit,Aegithalidae-->Bushtit,0.401018161154,0.748674320695,0.748674320695,0,0,Aegithalidae,0,50
+60,Bushtit,Aegithalidae,Bushtit,Aegithalidae-->Bushtit,0.623834570448,0.805241829021,0.805241829021,0,0,0,Bushtit,20
+61,Bird,Bird,Passeriformes,Bird-->Passeriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+61,Passeriformes,Bird,Passeriformes,Bird-->Passeriformes,0.307255155894,0.603701449193,0.603701449193,0,Passeriformes,0,0,100
+62,Passeriformes,Passeriformes,Alaudidae,Passeriformes-->Alaudidae,0.307255155894,0.603701449193,0.603701449193,0,Passeriformes,0,0,100
+62,Alaudidae,Passeriformes,Alaudidae,Passeriformes-->Alaudidae,0.113354203953,0.660754337382,0.660754337382,0,0,Alaudidae,0,50
+63,Alaudidae,Alaudidae,Horned Lark,Alaudidae-->Horned Lark,0.113354203953,0.660754337382,0.660754337382,0,0,Alaudidae,0,50
+63,Horned Lark,Alaudidae,Horned Lark,Alaudidae-->Horned Lark,0.0,0.611612298926,0.611612298926,0,0,0,Horned Lark,20
+64,Bird,Bird,Pelecaniformes,Bird-->Pelecaniformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+64,Pelecaniformes,Bird,Pelecaniformes,Bird-->Pelecaniformes,0.379261776253,0.394843795212,0.394843795212,0,Pelecaniformes,0,0,100
+65,Pelecaniformes,Pelecaniformes,Ardeidae,Pelecaniformes-->Ardeidae,0.379261776253,0.394843795212,0.394843795212,0,Pelecaniformes,0,0,100
+65,Ardeidae,Pelecaniformes,Ardeidae,Pelecaniformes-->Ardeidae,0.317430895452,0.265645897405,0.265645897405,0,0,Ardeidae,0,50
+66,Ardeidae,Ardeidae,Great Blue Heron,Ardeidae-->Great Blue Heron,0.317430895452,0.265645897405,0.265645897405,0,0,Ardeidae,0,50
+66,Great Blue Heron,Ardeidae,Great Blue Heron,Ardeidae-->Great Blue Heron,0.533522114513,0.149334656732,0.149334656732,0,0,0,Great Blue Heron,20
+67,Bird,Bird,Pelecaniformes,Bird-->Pelecaniformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+67,Pelecaniformes,Bird,Pelecaniformes,Bird-->Pelecaniformes,0.379261776253,0.394843795212,0.394843795212,0,Pelecaniformes,0,0,100
+68,Pelecaniformes,Pelecaniformes,Ardeidae,Pelecaniformes-->Ardeidae,0.379261776253,0.394843795212,0.394843795212,0,Pelecaniformes,0,0,100
+68,Ardeidae,Pelecaniformes,Ardeidae,Pelecaniformes-->Ardeidae,0.317430895452,0.265645897405,0.265645897405,0,0,Ardeidae,0,50
+69,Ardeidae,Ardeidae,Black-crowned Night-Heron,Ardeidae-->Black-crowned Night-Heron,0.317430895452,0.265645897405,0.265645897405,0,0,Ardeidae,0,50
+69,Black-crowned Night-Heron,Ardeidae,Black-crowned Night-Heron,Ardeidae-->Black-crowned Night-Heron,0.149720422018,0.407497365672,0.407497365672,0,0,0,Black-crowned Night-Heron,20
+70,Bird,Bird,Piciformes,Bird-->Piciformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+70,Piciformes,Bird,Piciformes,Bird-->Piciformes,0.569534497688,0.506531242217,0.506531242217,0,Piciformes,0,0,100
+71,Piciformes,Piciformes,Picidae,Piciformes-->Picidae,0.569534497688,0.506531242217,0.506531242217,0,Piciformes,0,0,100
+71,Picidae,Piciformes,Picidae,Piciformes-->Picidae,0.713694544861,0.524084430886,0.524084430886,0,0,Picidae,0,50
+72,Picidae,Picidae,Northern Flicker (Red-shafted),Picidae-->Northern Flicker (Red-shafted),0.713694544861,0.524084430886,0.524084430886,0,0,Picidae,0,50
+72,Northern Flicker (Red-shafted),Picidae,Northern Flicker (Red-shafted),Picidae-->Northern Flicker (Red-shafted),0.857918701625,0.613951321818,0.613951321818,0,0,0,Northern Flicker (Red-shafted),20
+73,Bird,Bird,Piciformes,Bird-->Piciformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+73,Piciformes,Bird,Piciformes,Bird-->Piciformes,0.569534497688,0.506531242217,0.506531242217,0,Piciformes,0,0,100
+74,Piciformes,Piciformes,Picidae,Piciformes-->Picidae,0.569534497688,0.506531242217,0.506531242217,0,Piciformes,0,0,100
+74,Picidae,Piciformes,Picidae,Piciformes-->Picidae,0.713694544861,0.524084430886,0.524084430886,0,0,Picidae,0,50
+75,Picidae,Picidae,Lewis's Woodpecker,Picidae-->Lewis's Woodpecker,0.713694544861,0.524084430886,0.524084430886,0,0,Picidae,0,50
+75,Lewis's Woodpecker,Picidae,Lewis's Woodpecker,Picidae-->Lewis's Woodpecker,0.737827042764,0.519237754218,0.519237754218,0,0,0,Lewis's Woodpecker,20
+76,Bird,Bird,Podicipediformes,Bird-->Podicipediformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+76,Podicipediformes,Bird,Podicipediformes,Bird-->Podicipediformes,0.378504477902,0.430188713828,0.430188713828,0,Podicipediformes,0,0,100
+77,Podicipediformes,Podicipediformes,Podicipedidae,Podicipediformes-->Podicipedidae,0.378504477902,0.430188713828,0.430188713828,0,Podicipediformes,0,0,100
+77,Podicipedidae,Podicipediformes,Podicipedidae,Podicipediformes-->Podicipedidae,0.280414125629,0.334865657566,0.334865657566,0,0,Podicipedidae,0,50
+78,Podicipedidae,Podicipedidae,Pied-billed Grebe,Podicipedidae-->Pied-billed Grebe,0.280414125629,0.334865657566,0.334865657566,0,0,Podicipedidae,0,50
+78,Pied-billed Grebe,Podicipedidae,Pied-billed Grebe,Podicipedidae-->Pied-billed Grebe,0.114941938823,0.486676482997,0.486676482997,0,0,0,Pied-billed Grebe,20
+79,Bird,Bird,Strigiformes,Bird-->Strigiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+79,Strigiformes,Bird,Strigiformes,Bird-->Strigiformes,0.532994981749,0.643080634359,0.643080634359,0,Strigiformes,0,0,100
+80,Strigiformes,Strigiformes,Strigidae,Strigiformes-->Strigidae,0.532994981749,0.643080634359,0.643080634359,0,Strigiformes,0,0,100
+80,Strigidae,Strigiformes,Strigidae,Strigiformes-->Strigidae,0.572800589113,0.842474423361,0.842474423361,0,0,Strigidae,0,50
+81,Strigidae,Strigidae,Northern Saw-whet Owl,Strigidae-->Northern Saw-whet Owl,0.572800589113,0.842474423361,0.842474423361,0,0,Strigidae,0,50
+81,Northern Saw-whet Owl,Strigidae,Northern Saw-whet Owl,Strigidae-->Northern Saw-whet Owl,0.459774468933,1.0,1.0,0,0,0,Northern Saw-whet Owl,20
+82,Bird,Bird,Strigiformes,Bird-->Strigiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+82,Strigiformes,Bird,Strigiformes,Bird-->Strigiformes,0.532994981749,0.643080634359,0.643080634359,0,Strigiformes,0,0,100
+83,Strigiformes,Strigiformes,Strigidae,Strigiformes-->Strigidae,0.532994981749,0.643080634359,0.643080634359,0,Strigiformes,0,0,100
+83,Strigidae,Strigiformes,Strigidae,Strigiformes-->Strigidae,0.572800589113,0.842474423361,0.842474423361,0,0,Strigidae,0,50
+84,Strigidae,Strigidae,Long-eared Owl,Strigidae-->Long-eared Owl,0.572800589113,0.842474423361,0.842474423361,0,0,Strigidae,0,50
+84,Long-eared Owl,Strigidae,Long-eared Owl,Strigidae-->Long-eared Owl,0.685946421398,0.761359678655,0.761359678655,0,0,0,Long-eared Owl,20
+85,Bird,Bird,Coraciiformes,Bird-->Coraciiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+85,Coraciiformes,Bird,Coraciiformes,Bird-->Coraciiformes,0.465113218817,0.339542764265,0.339542764265,0,Coraciiformes,0,0,100
+86,Coraciiformes,Coraciiformes,Alcedinidae,Coraciiformes-->Alcedinidae,0.465113218817,0.339542764265,0.339542764265,0,Coraciiformes,0,0,100
+86,Alcedinidae,Coraciiformes,Alcedinidae,Coraciiformes-->Alcedinidae,0.471089662627,0.175907800968,0.175907800968,0,0,Alcedinidae,0,50
+87,Alcedinidae,Alcedinidae,Belted kingfisher,Alcedinidae-->Belted kingfisher,0.471089662627,0.175907800968,0.175907800968,0,0,Alcedinidae,0,50
+87,Belted kingfisher,Alcedinidae,Belted kingfisher,Alcedinidae-->Belted kingfisher,0.457884053885,0.0,0.0,0,0,0,Belted kingfisher,20
+88,Bird,Bird,Gaviiformes,Bird-->Gaviiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+88,Gaviiformes,Bird,Gaviiformes,Bird-->Gaviiformes,0.498066248912,0.628435211311,0.628435211311,0,Gaviiformes,0,0,100
+89,Gaviiformes,Gaviiformes,Gaviidae,Gaviiformes-->Gaviidae,0.498066248912,0.628435211311,0.628435211311,0,Gaviiformes,0,0,100
+89,Gaviidae,Gaviiformes,Gaviidae,Gaviiformes-->Gaviidae,0.491544884936,0.819926737169,0.819926737169,0,0,Gaviidae,0,50
+90,Gaviidae,Gaviidae,Yellow-billed loon,Gaviidae-->Yellow-billed loon,0.491544884936,0.819926737169,0.819926737169,0,0,Gaviidae,0,50
+90,Yellow-billed loon,Gaviidae,Yellow-billed loon,Gaviidae-->Yellow-billed loon,0.408335671448,0.934952900271,0.934952900271,0,0,0,Yellow-billed loon,20
+91,Bird,Bird,Gaviiformes,Bird-->Gaviiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+91,Gaviiformes,Bird,Gaviiformes,Bird-->Gaviiformes,0.498066248912,0.628435211311,0.628435211311,0,Gaviiformes,0,0,100
+92,Gaviiformes,Gaviiformes,Gaviidae,Gaviiformes-->Gaviidae,0.498066248912,0.628435211311,0.628435211311,0,Gaviiformes,0,0,100
+92,Gaviidae,Gaviiformes,Gaviidae,Gaviiformes-->Gaviidae,0.491544884936,0.819926737169,0.819926737169,0,0,Gaviidae,0,50
+93,Gaviidae,Gaviidae,Arctic loon,Gaviidae-->Arctic loon,0.491544884936,0.819926737169,0.819926737169,0,0,Gaviidae,0,50
+93,Arctic loon,Gaviidae,Arctic loon,Gaviidae-->Arctic loon,0.365197451379,0.907720277782,0.907720277782,0,0,0,Arctic loon,20
+94,Bird,Bird,Podicipediformes,Bird-->Podicipediformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+94,Podicipediformes,Bird,Podicipediformes,Bird-->Podicipediformes,0.378504477902,0.430188713828,0.430188713828,0,Podicipediformes,0,0,100
+95,Podicipediformes,Podicipediformes,Podicipedidae,Podicipediformes-->Podicipedidae,0.378504477902,0.430188713828,0.430188713828,0,Podicipediformes,0,0,100
+95,Podicipedidae,Podicipediformes,Podicipedidae,Podicipediformes-->Podicipedidae,0.280414125629,0.334865657566,0.334865657566,0,0,Podicipedidae,0,50
+96,Podicipedidae,Podicipedidae,Western Grebe,Podicipedidae-->Western Grebe,0.280414125629,0.334865657566,0.334865657566,0,0,Podicipedidae,0,50
+96,Western Grebe,Podicipedidae,Western Grebe,Podicipedidae-->Western Grebe,0.467511635324,0.167722387749,0.167722387749,0,0,0,Western Grebe,20
+97,Bird,Bird,Procellariiformes,Bird-->Procellariiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+97,Procellariiformes,Bird,Procellariiformes,Bird-->Procellariiformes,0.535030473679,0.366932033182,0.366932033182,0,Procellariiformes,0,0,100
+98,Procellariiformes,Procellariiformes,Diomedeidae,Procellariiformes-->Diomedeidae,0.535030473679,0.366932033182,0.366932033182,0,Procellariiformes,0,0,100
+98,Diomedeidae,Procellariiformes,Diomedeidae,Procellariiformes-->Diomedeidae,0.60485801279,0.204698115341,0.204698115341,0,0,Diomedeidae,0,50
+99,Diomedeidae,Diomedeidae,Short-tailed albatross,Diomedeidae-->Short-tailed albatross,0.60485801279,0.204698115341,0.204698115341,0,0,Diomedeidae,0,50
+99,Short-tailed albatross,Diomedeidae,Short-tailed albatross,Diomedeidae-->Short-tailed albatross,0.811951261318,0.325794975828,0.325794975828,0,0,0,Short-tailed albatross,20
+100,Bird,Bird,Procellariiformes,Bird-->Procellariiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+100,Procellariiformes,Bird,Procellariiformes,Bird-->Procellariiformes,0.535030473679,0.366932033182,0.366932033182,0,Procellariiformes,0,0,100
+101,Procellariiformes,Procellariiformes,Diomedeidae,Procellariiformes-->Diomedeidae,0.535030473679,0.366932033182,0.366932033182,0,Procellariiformes,0,0,100
+101,Diomedeidae,Procellariiformes,Diomedeidae,Procellariiformes-->Diomedeidae,0.60485801279,0.204698115341,0.204698115341,0,0,Diomedeidae,0,50
+102,Diomedeidae,Diomedeidae,Laysan albatross,Diomedeidae-->Laysan albatross,0.60485801279,0.204698115341,0.204698115341,0,0,Diomedeidae,0,50
+102,Laysan albatross,Diomedeidae,Laysan albatross,Diomedeidae-->Laysan albatross,0.475129150109,0.0776992986167,0.0776992986167,0,0,0,Laysan albatross,20
+103,Bird,Bird,Suliformes,Bird-->Suliformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+103,Suliformes,Bird,Suliformes,Bird-->Suliformes,0.39549765891,0.619184556374,0.619184556374,0,Suliformes,0,0,100
+104,Suliformes,Suliformes,Phalacrocoracidae,Suliformes-->Phalacrocoracidae,0.39549765891,0.619184556374,0.619184556374,0,Suliformes,0,0,100
+104,Phalacrocoracidae,Suliformes,Phalacrocoracidae,Suliformes-->Phalacrocoracidae,0.359991327643,0.798117499454,0.798117499454,0,0,Phalacrocoracidae,0,50
+105,Phalacrocoracidae,Phalacrocoracidae,Double-crested cormorant,Phalacrocoracidae-->Double-crested cormorant,0.359991327643,0.798117499454,0.798117499454,0,0,Phalacrocoracidae,0,50
+105,Double-crested cormorant,Phalacrocoracidae,Double-crested cormorant,Phalacrocoracidae-->Double-crested cormorant,0.440255522732,0.927250748631,0.927250748631,0,0,0,Double-crested cormorant,20
+106,Bird,Bird,Suliformes,Bird-->Suliformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+106,Suliformes,Bird,Suliformes,Bird-->Suliformes,0.39549765891,0.619184556374,0.619184556374,0,Suliformes,0,0,100
+107,Suliformes,Suliformes,Phalacrocoracidae,Suliformes-->Phalacrocoracidae,0.39549765891,0.619184556374,0.619184556374,0,Suliformes,0,0,100
+107,Phalacrocoracidae,Suliformes,Phalacrocoracidae,Suliformes-->Phalacrocoracidae,0.359991327643,0.798117499454,0.798117499454,0,0,Phalacrocoracidae,0,50
+108,Phalacrocoracidae,Phalacrocoracidae,Pelagic cormorant,Phalacrocoracidae-->Pelagic cormorant,0.359991327643,0.798117499454,0.798117499454,0,0,Phalacrocoracidae,0,50
+108,Pelagic cormorant,Phalacrocoracidae,Pelagic cormorant,Phalacrocoracidae-->Pelagic cormorant,0.306723520415,0.737452682075,0.737452682075,0,0,0,Pelagic cormorant,20
+109,Bird,Bird,Cuculiformes,Bird-->Cuculiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+109,Cuculiformes,Bird,Cuculiformes,Bird-->Cuculiformes,0.612294865172,0.447191252689,0.447191252689,0,Cuculiformes,0,0,100
+110,Cuculiformes,Cuculiformes,Cuculidae,Cuculiformes-->Cuculidae,0.612294865172,0.447191252689,0.447191252689,0,Cuculiformes,0,0,100
+110,Cuculidae,Cuculiformes,Cuculidae,Cuculiformes-->Cuculidae,0.767224015731,0.376975554344,0.376975554344,0,0,Cuculidae,0,50
+111,Cuculidae,Cuculidae,Yellow-billed cuckoo,Cuculidae-->Yellow-billed cuckoo,0.767224015731,0.376975554344,0.376975554344,0,0,Cuculidae,0,50
+111,Yellow-billed cuckoo,Cuculidae,Yellow-billed cuckoo,Cuculidae-->Yellow-billed cuckoo,0.666104081131,0.334780082584,0.334780082584,0,0,0,Yellow-billed cuckoo,20
+112,Bird,Bird,Cuculiformes,Bird-->Cuculiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+112,Cuculiformes,Bird,Cuculiformes,Bird-->Cuculiformes,0.612294865172,0.447191252689,0.447191252689,0,Cuculiformes,0,0,100
+113,Cuculiformes,Cuculiformes,Cuculidae,Cuculiformes-->Cuculidae,0.612294865172,0.447191252689,0.447191252689,0,Cuculiformes,0,0,100
+113,Cuculidae,Cuculiformes,Cuculidae,Cuculiformes-->Cuculidae,0.767224015731,0.376975554344,0.376975554344,0,0,Cuculidae,0,50
+114,Cuculidae,Cuculidae,Black-billed cuckoo,Cuculidae-->Black-billed cuckoo,0.767224015731,0.376975554344,0.376975554344,0,0,Cuculidae,0,50
+114,Black-billed cuckoo,Cuculidae,Black-billed cuckoo,Cuculidae-->Black-billed cuckoo,0.833476515183,0.43902809322,0.43902809322,0,0,0,Black-billed cuckoo,20
+115,Bird,Bird,Phaethontiformes,Bird-->Phaethontiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+115,Phaethontiformes,Bird,Phaethontiformes,Bird-->Phaethontiformes,0.422958438966,0.361731092032,0.361731092032,0,Phaethontiformes,0,0,100
+116,Phaethontiformes,Phaethontiformes,Phaethontidae,Phaethontiformes-->Phaethontidae,0.422958438966,0.361731092032,0.361731092032,0,Phaethontiformes,0,0,100
+116,Phaethontidae,Phaethontiformes,Phaethontidae,Phaethontiformes-->Phaethontidae,0.382307896571,0.178146883802,0.178146883802,0,0,Phaethontidae,0,50
+117,Phaethontidae,Phaethontidae,White-tailed Tropicbird,Phaethontidae-->White-tailed Tropicbird,0.382307896571,0.178146883802,0.178146883802,0,0,Phaethontidae,0,50
+117,White-tailed Tropicbird,Phaethontidae,White-tailed Tropicbird,Phaethontidae-->White-tailed Tropicbird,0.198343064235,0.184316882052,0.184316882052,0,0,0,White-tailed Tropicbird,20
+118,Bird,Bird,Phoenicopteriformes,Bird-->Phoenicopteriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+118,Phoenicopteriformes,Bird,Phoenicopteriformes,Bird-->Phoenicopteriformes,0.437963362569,0.630610417933,0.630610417933,0,Phoenicopteriformes,0,0,100
+119,Phoenicopteriformes,Phoenicopteriformes,Phoenicopteridae,Phoenicopteriformes-->Phoenicopteridae,0.437963362569,0.630610417933,0.630610417933,0,Phoenicopteriformes,0,0,100
+119,Phoenicopteridae,Phoenicopteriformes,Phoenicopteridae,Phoenicopteriformes-->Phoenicopteridae,0.437183084518,0.813017844048,0.813017844048,0,0,Phoenicopteridae,0,50
+120,Phoenicopteridae,Phoenicopteridae,"American Flamingo, Greater Flamingo","Phoenicopteridae-->American Flamingo, Greater Flamingo",0.437183084518,0.813017844048,0.813017844048,0,0,Phoenicopteridae,0,50
+120,"American Flamingo, Greater Flamingo",Phoenicopteridae,"American Flamingo, Greater Flamingo","Phoenicopteridae-->American Flamingo, Greater Flamingo",0.49464273796,0.963161468677,0.963161468677,0,0,0,"American Flamingo, Greater Flamingo",20
+121,Bird,Bird,Trogoniformes,Bird-->Trogoniformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+121,Trogoniformes,Bird,Trogoniformes,Bird-->Trogoniformes,0.628726171435,0.527323276868,0.527323276868,0,Trogoniformes,0,0,100
+122,Trogoniformes,Trogoniformes,Trogonidae,Trogoniformes-->Trogonidae,0.628726171435,0.527323276868,0.527323276868,0,Trogoniformes,0,0,100
+122,Trogonidae,Trogoniformes,Trogonidae,Trogoniformes-->Trogonidae,0.828389771328,0.537541663316,0.537541663316,0,0,Trogonidae,0,50
+123,Trogonidae,Trogonidae,Elegant Trogon,Trogonidae-->Elegant Trogon,0.828389771328,0.537541663316,0.537541663316,0,0,Trogonidae,0,50
+123,Elegant Trogon,Trogonidae,Elegant Trogon,Trogonidae-->Elegant Trogon,0.881779652381,0.41036385923,0.41036385923,0,0,0,Elegant Trogon,20
+124,Bird,Bird,Phaethontiformes,Bird-->Phaethontiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+124,Phaethontiformes,Bird,Phaethontiformes,Bird-->Phaethontiformes,0.422958438966,0.361731092032,0.361731092032,0,Phaethontiformes,0,0,100
+125,Phaethontiformes,Phaethontiformes,Phaethontidae,Phaethontiformes-->Phaethontidae,0.422958438966,0.361731092032,0.361731092032,0,Phaethontiformes,0,0,100
+125,Phaethontidae,Phaethontiformes,Phaethontidae,Phaethontiformes-->Phaethontidae,0.382307896571,0.178146883802,0.178146883802,0,0,Phaethontidae,0,50
+126,Phaethontidae,Phaethontidae,Red-billed Tropicbird,Phaethontidae-->Red-billed Tropicbird,0.382307896571,0.178146883802,0.178146883802,0,0,Phaethontidae,0,50
+126,Red-billed Tropicbird,Phaethontidae,Red-billed Tropicbird,Phaethontidae-->Red-billed Tropicbird,0.63188113966,0.186169938187,0.186169938187,0,0,0,Red-billed Tropicbird,20
+127,Bird,Bird,Ciconiiformes,Bird-->Ciconiiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+127,Ciconiiformes,Bird,Ciconiiformes,Bird-->Ciconiiformes,0.381043491101,0.373602574745,0.373602574745,0,Ciconiiformes,0,0,100
+128,Ciconiiformes,Ciconiiformes,Ciconiidae,Ciconiiformes-->Ciconiidae,0.381043491101,0.373602574745,0.373602574745,0,Ciconiiformes,0,0,100
+128,Ciconiidae,Ciconiiformes,Ciconiidae,Ciconiiformes-->Ciconiidae,0.294474183972,0.192407364569,0.192407364569,0,0,Ciconiidae,0,50
+129,Ciconiidae,Ciconiidae,Wood Stork,Ciconiidae-->Wood Stork,0.294474183972,0.192407364569,0.192407364569,0,0,Ciconiidae,0,50
+129,Wood Stork,Ciconiidae,Wood Stork,Ciconiidae-->Wood Stork,0.347908692597,0.054491547587,0.054491547587,0,0,0,Wood Stork,20
+130,Bird,Bird,Phoenicopteriformes,Bird-->Phoenicopteriformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+130,Phoenicopteriformes,Bird,Phoenicopteriformes,Bird-->Phoenicopteriformes,0.437963362569,0.630610417933,0.630610417933,0,Phoenicopteriformes,0,0,100
+131,Phoenicopteriformes,Phoenicopteriformes,Phoenicopteridae,Phoenicopteriformes-->Phoenicopteridae,0.437963362569,0.630610417933,0.630610417933,0,Phoenicopteriformes,0,0,100
+131,Phoenicopteridae,Phoenicopteriformes,Phoenicopteridae,Phoenicopteriformes-->Phoenicopteridae,0.437183084518,0.813017844048,0.813017844048,0,0,Phoenicopteridae,0,50
+132,Phoenicopteridae,Phoenicopteridae,"American Flamingo, Greater Flamingo","Phoenicopteridae-->American Flamingo, Greater Flamingo",0.437183084518,0.813017844048,0.813017844048,0,0,Phoenicopteridae,0,50
+132,"American Flamingo, Greater Flamingo",Phoenicopteridae,"American Flamingo, Greater Flamingo","Phoenicopteridae-->American Flamingo, Greater Flamingo",0.49464273796,0.963161468677,0.963161468677,0,0,0,"American Flamingo, Greater Flamingo",20
+133,Bird,Bird,Trogoniformes,Bird-->Trogoniformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+133,Trogoniformes,Bird,Trogoniformes,Bird-->Trogoniformes,0.628726171435,0.527323276868,0.527323276868,0,Trogoniformes,0,0,100
+134,Trogoniformes,Trogoniformes,Trogonidae,Trogoniformes-->Trogonidae,0.628726171435,0.527323276868,0.527323276868,0,Trogoniformes,0,0,100
+134,Trogonidae,Trogoniformes,Trogonidae,Trogoniformes-->Trogonidae,0.828389771328,0.537541663316,0.537541663316,0,0,Trogonidae,0,50
+135,Trogonidae,Trogonidae,Elegant Trogon,Trogonidae-->Elegant Trogon,0.828389771328,0.537541663316,0.537541663316,0,0,Trogonidae,0,50
+135,Elegant Trogon,Trogonidae,Elegant Trogon,Trogonidae-->Elegant Trogon,0.881779652381,0.41036385923,0.41036385923,0,0,0,Elegant Trogon,20
+136,Bird,Bird,Ciconiiformes,Bird-->Ciconiiformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+136,Ciconiiformes,Bird,Ciconiiformes,Bird-->Ciconiiformes,0.381043491101,0.373602574745,0.373602574745,0,Ciconiiformes,0,0,100
+137,Ciconiiformes,Ciconiiformes,Ciconiidae,Ciconiiformes-->Ciconiidae,0.381043491101,0.373602574745,0.373602574745,0,Ciconiiformes,0,0,100
+137,Ciconiidae,Ciconiiformes,Ciconiidae,Ciconiiformes-->Ciconiidae,0.294474183972,0.192407364569,0.192407364569,0,0,Ciconiidae,0,50
+138,Ciconiidae,Ciconiidae,Wood Stork,Ciconiidae-->Wood Stork,0.294474183972,0.192407364569,0.192407364569,0,0,Ciconiidae,0,50
+138,Wood Stork,Ciconiidae,Wood Stork,Ciconiidae-->Wood Stork,0.347908692597,0.054491547587,0.054491547587,0,0,0,Wood Stork,20
+139,Bird,Bird,Psittaciformes,Bird-->Psittaciformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+139,Psittaciformes,Bird,Psittaciformes,Bird-->Psittaciformes,0.468534204348,0.582076228503,0.582076228503,0,Psittaciformes,0,0,100
+140,Psittaciformes,Psittaciformes,Psittacidae,Psittaciformes-->Psittacidae,0.468534204348,0.582076228503,0.582076228503,0,Psittaciformes,0,0,100
+140,Psittacidae,Psittaciformes,Psittacidae,Psittaciformes-->Psittacidae,0.494351120736,0.725099875578,0.725099875578,0,0,Psittacidae,0,50
+141,Psittacidae,Psittacidae,"Canary-winged Parakeet, White-winged Parakeet","Psittacidae-->Canary-winged Parakeet, White-winged Parakeet",0.494351120736,0.725099875578,0.725099875578,0,0,Psittacidae,0,50
+141,"Canary-winged Parakeet, White-winged Parakeet",Psittacidae,"Canary-winged Parakeet, White-winged Parakeet","Psittacidae-->Canary-winged Parakeet, White-winged Parakeet",0.641720916875,0.641658481978,0.641658481978,0,0,0,"Canary-winged Parakeet, White-winged Parakeet",20
+142,Bird,Bird,Psittaciformes,Bird-->Psittaciformes,0.469365956285,0.50554894756,0.50554894756,Bird,0,0,0,200
+142,Psittaciformes,Bird,Psittaciformes,Bird-->Psittaciformes,0.468534204348,0.582076228503,0.582076228503,0,Psittaciformes,0,0,100
+143,Psittaciformes,Psittaciformes,Psittacidae,Psittaciformes-->Psittacidae,0.468534204348,0.582076228503,0.582076228503,0,Psittaciformes,0,0,100
+143,Psittacidae,Psittaciformes,Psittacidae,Psittaciformes-->Psittacidae,0.494351120736,0.725099875578,0.725099875578,0,0,Psittacidae,0,50
+144,Psittacidae,Psittacidae,Budgerigar,Psittacidae-->Budgerigar,0.494351120736,0.725099875578,0.725099875578,0,0,Psittacidae,0,50
+144,Budgerigar,Psittacidae,Budgerigar,Psittacidae-->Budgerigar,0.533278535991,0.758161546774,0.758161546774,0,0,0,Budgerigar,20

@@ -1,0 +1,145 @@
+Source,Target,Weight
+Bird,Accipitriformes,200
+Accipitriformes,Accipitridae,100
+Accipitridae,Cooper's Hawk,50
+Bird,Accipitriformes,200
+Accipitriformes,Accipitridae,100
+Accipitridae,Northern Goshawk,50
+Bird,Anseriformes,200
+Anseriformes,Anatidae,100
+Anatidae,Northern Pintail,50
+Bird,Anseriformes,200
+Anseriformes,Anatidae,100
+Anatidae,American Wigeon,50
+Bird,Apodiformes,200
+Apodiformes,Apodidae,100
+Apodidae,White-throated Swift,50
+Bird,Apodiformes,200
+Apodiformes,Apodidae,100
+Apodidae,Black Swift,50
+Bird,Caprimulgiformes,200
+Caprimulgiformes,Caprimulgidae,100
+Caprimulgidae,Common Nighthawk,50
+Bird,Caprimulgiformes,200
+Caprimulgiformes,Caprimulgidae,100
+Caprimulgidae,Common Poorwill,50
+Bird,Charadriiformes,200
+Charadriiformes,Charadriidae,100
+Charadriidae,Killdeer,50
+Bird,Charadriiformes,200
+Charadriiformes,Laridae,100
+Laridae,California Gull,50
+Bird,Columbiformes,200
+Columbiformes,Columbidae,100
+Columbidae,Rock Dove,50
+Bird,Columbiformes,200
+Columbiformes,Columbidae,100
+Columbidae,Band-tailed Pigeon,50
+Bird,Coraciiformes,200
+Coraciiformes,Alcedinidae,100
+Alcedinidae,Belted Kingfisher,50
+Bird,Falconiformes,200
+Falconiformes,Falconidae,100
+Falconidae,Merlin,50
+Bird,Falconiformes,200
+Falconiformes,Falconidae,100
+Falconidae,Prairie Falcon,50
+Bird,Galliformes,200
+Galliformes,Odontophoridae,100
+Odontophoridae,Gambel's Quail,50
+Bird,Galliformes,200
+Galliformes,Phasianidae,100
+Phasianidae,Chukar,50
+Bird,Gruiformes,200
+Gruiformes,Gruidae,100
+Gruidae,Sandhill Crane,50
+Bird,Gruiformes,200
+Gruiformes,Rallidae,100
+Rallidae,American Coot,50
+Bird,Passeriformes,200
+Passeriformes,Aegithalidae,100
+Aegithalidae,Bushtit,50
+Bird,Passeriformes,200
+Passeriformes,Alaudidae,100
+Alaudidae,Horned Lark,50
+Bird,Pelecaniformes,200
+Pelecaniformes,Ardeidae,100
+Ardeidae,Great Blue Heron,50
+Bird,Pelecaniformes,200
+Pelecaniformes,Ardeidae,100
+Ardeidae,Black-crowned Night-Heron,50
+Bird,Piciformes,200
+Piciformes,Picidae,100
+Picidae,Northern Flicker (Red-shafted),50
+Bird,Piciformes,200
+Piciformes,Picidae,100
+Picidae,Lewis's Woodpecker,50
+Bird,Podicipediformes,200
+Podicipediformes,Podicipedidae,100
+Podicipedidae,Pied-billed Grebe,50
+Bird,Strigiformes,200
+Strigiformes,Strigidae,100
+Strigidae,Northern Saw-whet Owl,50
+Bird,Strigiformes,200
+Strigiformes,Strigidae,100
+Strigidae,Long-eared Owl,50
+Bird,Coraciiformes,200
+Coraciiformes,Alcedinidae,100
+Alcedinidae,Belted kingfisher,50
+Bird,Gaviiformes,200
+Gaviiformes,Gaviidae,100
+Gaviidae,Yellow-billed loon,50
+Bird,Gaviiformes,200
+Gaviiformes,Gaviidae,100
+Gaviidae,Arctic loon,50
+Bird,Podicipediformes,200
+Podicipediformes,Podicipedidae,100
+Podicipedidae,Western Grebe,50
+Bird,Procellariiformes,200
+Procellariiformes,Diomedeidae,100
+Diomedeidae,Short-tailed albatross,50
+Bird,Procellariiformes,200
+Procellariiformes,Diomedeidae,100
+Diomedeidae,Laysan albatross,50
+Bird,Suliformes,200
+Suliformes,Phalacrocoracidae,100
+Phalacrocoracidae,Double-crested cormorant,50
+Bird,Suliformes,200
+Suliformes,Phalacrocoracidae,100
+Phalacrocoracidae,Pelagic cormorant,50
+Bird,Cuculiformes,200
+Cuculiformes,Cuculidae,100
+Cuculidae,Yellow-billed cuckoo,50
+Bird,Cuculiformes,200
+Cuculiformes,Cuculidae,100
+Cuculidae,Black-billed cuckoo,50
+Bird,Phaethontiformes,200
+Phaethontiformes,Phaethontidae,100
+Phaethontidae,White-tailed Tropicbird,50
+Bird,Phoenicopteriformes,200
+Phoenicopteriformes,Phoenicopteridae,100
+Phoenicopteridae,"American Flamingo, Greater Flamingo",50
+Bird,Trogoniformes,200
+Trogoniformes,Trogonidae,100
+Trogonidae,Elegant Trogon,50
+Bird,Phaethontiformes,200
+Phaethontiformes,Phaethontidae,100
+Phaethontidae,Red-billed Tropicbird,50
+Bird,Ciconiiformes,200
+Ciconiiformes,Ciconiidae,100
+Ciconiidae,Wood Stork,50
+Bird,Phoenicopteriformes,200
+Phoenicopteriformes,Phoenicopteridae,100
+Phoenicopteridae,"American Flamingo, Greater Flamingo",50
+Bird,Trogoniformes,200
+Trogoniformes,Trogonidae,100
+Trogonidae,Elegant Trogon,50
+Bird,Ciconiiformes,200
+Ciconiiformes,Ciconiidae,100
+Ciconiidae,Wood Stork,50
+Bird,Psittaciformes,200
+Psittaciformes,Psittacidae,100
+Psittacidae,"Canary-winged Parakeet, White-winged Parakeet",50
+Bird,Psittaciformes,200
+Psittaciformes,Psittacidae,100
+Psittacidae,Budgerigar,50
